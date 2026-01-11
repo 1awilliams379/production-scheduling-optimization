@@ -1,0 +1,4 @@
+plant_id,plant_name,location,state,capacity_hours_per_week,labor_cost_per_hour,overhead_cost_per_week,operational_status
+PLANT001,Atlanta Manufacturing,Atlanta,GA,320,35.00,12000,Active
+PLANT002,Charlotte Assembly,Charlotte,NC,280,32.00,9500,Active
+PLANT003,Memphis Production,Memphis,TN,400,30.00,15000,Active

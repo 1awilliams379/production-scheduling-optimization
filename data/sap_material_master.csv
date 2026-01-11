@@ -1,0 +1,16 @@
+material_id,description,category,unit_cost,weight_kg,production_time_hours
+SKU001,Industrial Pump Model A,Pumps,450.00,25.5,2.5
+SKU002,Industrial Pump Model B,Pumps,650.00,32.0,3.0
+SKU003,Control Valve Type 1,Valves,120.00,5.2,1.0
+SKU004,Control Valve Type 2,Valves,180.00,7.5,1.5
+SKU005,Motor Assembly 5HP,Motors,320.00,18.0,2.0
+SKU006,Motor Assembly 10HP,Motors,580.00,28.0,2.5
+SKU007,Pressure Gauge Digital,Gauges,85.00,1.5,0.5
+SKU008,Pressure Gauge Analog,Gauges,45.00,1.2,0.5
+SKU009,Pipe Fitting Set A,Fittings,35.00,8.0,0.75
+SKU010,Pipe Fitting Set B,Fittings,55.00,12.0,1.0
+SKU011,Hydraulic Cylinder 100mm,Cylinders,280.00,15.0,1.75
+SKU012,Hydraulic Cylinder 150mm,Cylinders,420.00,22.0,2.25
+SKU013,Electrical Panel Basic,Panels,380.00,45.0,3.5
+SKU014,Electrical Panel Advanced,Panels,720.00,55.0,4.0
+SKU015,Safety Switch Industrial,Switches,95.00,2.5,0.75
