@@ -21,29 +21,19 @@ This system addresses manufacturing allocation challenges by optimizing producti
 **Decision Variables:**
 ```
 x[p,m] = quantity of material m to produce at plant p
-where p ∈ {PLANT001, PLANT002, PLANT003}
-      m ∈ {SKU001, ..., SKU015}
-Total: 45 decision variables
-```
 
 **Objective Function:**
 ```
-Minimize: Σ Σ cost[p,m] × x[p,m]
-         p  m
+Minimize
 ```
 
 **Constraints:**
 ```
-1. Demand Satisfaction (15 constraints):
-   Σ x[p,m] ≥ demand[m]  ∀m
-   p
+1. Demand Satisfaction (15 constraints)
 
-2. Plant Capacity (3 constraints):
-   Σ production_time[m] × x[p,m] ≤ capacity[p]  ∀p
-   m
+2. Plant Capacity (3 constraints)
 
-3. Non-negativity:
-   x[p,m] ≥ 0  ∀p,m
+3. Non-negativity
 ```
 
 ### Data Pipeline
