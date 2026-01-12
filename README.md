@@ -93,7 +93,6 @@ production-scheduling-optimization/
 │   ├── optimizer.py               # LP model implementation
 │   ├── forecasting.py             # Demand forecasting
 │   └── integration.py             # End-to-end workflow
-└── tutorials/                     # Documentation
 ```
 
 ## Installation & Usage
