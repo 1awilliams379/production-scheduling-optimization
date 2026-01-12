@@ -140,16 +140,3 @@ python src/integration.py
 | **Statistics** | Forecasting (moving average, linear regression), anomaly detection |
 | **Domain Knowledge** | SAP/ERP data structures (MARA, MARC, VBAK/VBAP) |
 
-## Extensions
-
-Potential enhancements for production deployment:
-- Multi-period scheduling with inventory holding costs
-- Transportation cost optimization (plant → customer routing)
-- Mixed-Integer Programming for minimum batch sizes
-- Scenario analysis and sensitivity testing
-- Database integration (PostgreSQL/BigQuery)
-- Real-time optimization with live ERP data
-
-## License
-
-MIT License - See LICENSE file for details
