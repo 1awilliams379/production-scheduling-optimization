@@ -21,7 +21,7 @@ This system addresses manufacturing allocation challenges by optimizing producti
 **Decision Variables:**
 ```
 x[p,m] = quantity of material m to produce at plant p
-
+```
 **Objective Function:**
 ```
 Minimize
